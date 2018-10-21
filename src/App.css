@@ -133,6 +133,10 @@ body, .app {
   color: #999;
 }
 
+.book-authors span {
+  display: block;
+}
+
 .book-top {
   position: relative;
   height: 200px;
